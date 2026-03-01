@@ -82,6 +82,10 @@ python spass_converter.py export_data.spass --dump
 - Please securely delete the generated CSV files after importing into your password manager
 - This tool only processes data that users have exported themselves through the official Samsung Pass export feature
 
+## Contributing
+
+Bug reports, feature requests, and pull requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ## License
 
 MIT License
