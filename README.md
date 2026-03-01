@@ -19,6 +19,19 @@ Enable data portability for users who have exported their own data from Samsung 
 | KeePass | `keepass` |
 | Dashlane | `dashlane` |
 
+## How to Export from Samsung Pass
+
+1. Open **Settings** > **Security and privacy** > **More security settings** > **Samsung Pass**
+2. Tap **⋮ (More options)** > **Settings**
+3. Tap **Export data to phone**
+4. Select the data to export (IDs & Passwords, Cards, Addresses, Notes)
+5. Set a password for the exported file — **remember this password**, you will need it for conversion
+6. The `.spass` file will be saved to your device
+
+Transfer the `.spass` file to your computer, then use this tool to convert it.
+
+For more details, see the official Samsung support page: [Set up and use Samsung Pass](https://www.samsung.com/us/support/answer/ANS10002529/)
+
 ## Installation
 
 ```bash
